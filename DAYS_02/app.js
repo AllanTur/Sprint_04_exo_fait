@@ -188,9 +188,9 @@ AMAZON
 
 
 //23.Supprimez tous les éléments du tableau itCompanies.
-const itCompanies = ["Facebook", "Google", "Microsoft", "Apple", "IBM", "Oracle", "Amazon"];
+// const itCompanies = ["Facebook", "Google", "Microsoft", "Apple", "IBM", "Oracle", "Amazon"];
 
-//MEILLEUR METHODE POUR EFFACER
+
 // var deleteAllElement = itCompanies.splice(0);
 // console.log(itCompanies);
 
